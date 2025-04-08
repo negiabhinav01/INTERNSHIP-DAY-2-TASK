@@ -69,3 +69,13 @@ Visual: Bar Chart
 	•	Region
 	•	Ship Mode
 	•	Date Range (Order Date)
+
+
+![image](https://github.com/user-attachments/assets/b64a8089-5fac-4c9d-b81e-6f06b8abb8c2)
+Key Insights Slide
+
+Summarize insights from all visuals:
+	•	“West region contributes 35% of revenue”
+	•	“Office Supplies has most volume but Furniture has higher avg order value”
+	•	“Standard Class shipping dominates but 2-day shipping is growing”
+
